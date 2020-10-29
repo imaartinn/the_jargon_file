@@ -1,0 +1,38 @@
+*{
+	font-family: sans-serif;
+	background: hsl(198, 50%, 85%);
+}
+
+
+h1{
+	text-align: center;
+	font-size: 300%;
+}
+
+h2{
+	background:hsl(198, 50%, 50%);
+	font-size: 200%;
+}
+
+h3{
+	background:hsl(198, 50%, 65%);
+	font-size: 150%;
+	color: white;
+}
+
+pre{
+	background: white;
+	font-weight: bold;
+}
+
+div{
+	font-style: oblique;
+	margin-left: 7.5%;
+	line-height : 40px;
+}
+
+address{
+	text-align: right;
+	font-family: serif;
+	font-style: normal;
+}
